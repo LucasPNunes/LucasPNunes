@@ -11,7 +11,7 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-   <a href="www.linkedin.com/in/lucaspnunes-4c756361734" target="_blank" title="My likedin">
+   <a href="https://www.linkedin.com/in/lucaspnunes-4c756361734" target="_blank" title="My likedin">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
    <a href="mailto:lucas3052003@gmail.com" target="_blank">
