@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hello, welcome to my profile 🔥</h1>
+<h1 align="center"> Hello, welcome to my profile </h1>
 
 ```
 - 🎒 I am Computer Science student, learning about Java.
